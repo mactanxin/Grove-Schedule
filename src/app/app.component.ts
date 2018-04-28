@@ -12,15 +12,6 @@ import { IntervalObservable } from 'rxjs/observable/IntervalObservable';
 })
 export class AppComponent implements OnInit {
   title = 'Grove-Scheduler';
-  notes = [{
-      name: 'Vacation Itinerary',
-      updated: new Date('2/20/16'),
-    },
-    {
-      name: 'Kitchen Remodel',
-      updated: new Date('1/18/16'),
-    }
-  ];
   dataList = [];
   next_24_hour_events = [];
   sortedList = [];
