@@ -105,7 +105,6 @@ export class AppComponent implements OnInit {
     this.eventService.getEvents().subscribe((res) => {
       if (res) {
         try {
-          console.log(res);
           this.dataList = res['data'].map((schedule) => {
             return {
               id: schedule.id,
