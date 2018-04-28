@@ -1,3 +1,9 @@
+# README	
+Checkout this repository
+`npm install`
+`ng server`
+Head to `localhost:4200`
+
 # GroveScheduler
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
