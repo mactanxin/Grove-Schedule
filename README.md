@@ -1,8 +1,8 @@
 # README	
-Checkout this repository
-`npm install`
-`ng server`
-Head to `localhost:4200`
+1. Checkout this repository
+2. `npm install`
+3. `ng server`
+4. Head to `localhost:4200`
 
 # GroveScheduler
 
